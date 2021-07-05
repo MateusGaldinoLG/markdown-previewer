@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "lodash": "^4.17.21",
+    "markdown-it": "^12.1.0",
+    "markdown-it-emoji": "^2.0.0",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
   },
